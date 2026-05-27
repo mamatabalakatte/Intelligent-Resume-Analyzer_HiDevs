@@ -1,0 +1,50 @@
+SARAH JOHNSON
+sarah.johnson@email.com • (555) 987-6543 • Seattle, WA
+LinkedIn: linkedin.com/in/sarahjohnson | Portfolio: www.sarahportfolio.com
+
+SUMMARY
+Full Stack Developer with 5 years of experience in building responsive web applications and mobile solutions. Strong expertise in React, Node.js, and cloud deployment. Creative problem-solver passionate about user experience and scalable architecture.
+
+CORE COMPETENCIES
+Frontend: React, Vue.js, HTML5, CSS3, JavaScript, TypeScript, Redux, Material-UI
+Backend: Node.js, Express, Python, Django, GraphQL, REST APIs
+Databases: MongoDB, PostgreSQL, Firebase, MySQL
+Tools: Git, NPM, Webpack, Babel, Docker, VS Code, Figma
+Cloud: AWS, Firebase, Vercel, Heroku
+
+WORK EXPERIENCE
+
+Full Stack Developer | Digital Innovations Inc | Seattle, WA | 2020 - Present
+• Developed and maintained 10+ React applications serving 50K+ monthly users
+• Built RESTful APIs with Express and Node.js connecting to MongoDB
+• Implemented authentication system using JWT and OAuth 2.0
+• Reduced bundle size by 45% through code splitting and lazy loading
+• Designed responsive UI components improving mobile conversion by 30%
+
+Junior Web Developer | Creative Digital Agency | Portland, OR | 2019 - 2020
+• Built client websites using React and Vue.js frameworks
+• Collaborated with designers on UI/UX implementation
+• Performed cross-browser testing and bug fixes
+• Maintained legacy PHP and jQuery codebases
+
+Freelance Web Developer | Self-Employed | 2018 - 2019
+• Developed 15+ custom websites for small businesses and startups
+• Created mobile-responsive designs
+• Handled client communication and project management
+
+EDUCATION
+Bachelor of Arts in Web Development
+Portland State University | Portland, OR | 2018
+
+Certificate in Full Stack Web Development
+General Assembly Bootcamp | 2018
+
+PROJECTS
+Portfolio Website: Portfolio showcasing 20+ projects built with Next.js and Tailwind CSS
+E-commerce Platform: Built full-stack e-commerce app with React frontend and Node.js backend
+Mobile App: React Native app with 1K+ active users on iOS and Android
+Open Source: Contributing to React UI library with 2K GitHub stars
+
+ADDITIONAL
+Languages: English (Native), French (Intermediate)
+Interests: Web performance, UI/UX design, open source development

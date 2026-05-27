@@ -1,0 +1,52 @@
+John Smith
+john.smith@email.com | (555) 123-4567 | San Francisco, CA
+LinkedIn: linkedin.com/in/johnsmith | GitHub: github.com/johnsmith
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Python Developer with 7 years of experience building scalable web applications and distributed systems. Expert in Django, FastAPI, and cloud technologies. Proven track record of leading technical teams and delivering high-quality software solutions. Passionate about clean code, testing, and mentoring junior developers.
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, TypeScript, SQL, Bash
+Frameworks: Django, FastAPI, Flask, React, Vue.js
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, Jenkins, CI/CD
+Tools & Platforms: Git, JIRA, Confluence, Docker, Linux, Postman, Figma
+
+PROFESSIONAL EXPERIENCE
+
+Senior Backend Engineer | TechCorp Solutions | San Francisco, CA | 2021 - Present
+• Led development of microservices architecture serving 1M+ daily active users
+• Designed and implemented RESTful APIs using FastAPI, resulting in 40% performance improvement
+• Mentored 5 junior developers and conducted code reviews
+• Optimized database queries reducing average response time from 500ms to 100ms
+• Implemented comprehensive unit and integration tests achieving 85% code coverage
+
+Backend Engineer | StartupXYZ | Mountain View, CA | 2018 - 2021
+• Developed full-stack web application using Django and React
+• Implemented JWT-based authentication system for secure API access
+• Designed PostgreSQL schemas handling 500K+ daily transactions
+• Set up CI/CD pipelines using Jenkins reducing deployment time by 60%
+• Collaborated with frontend team to build high-performance dashboard
+
+Junior Developer | CodeCrafters Inc | San Jose, CA | 2017 - 2018
+• Developed backend APIs for mobile applications
+• Participated in daily standups and sprint planning
+• Fixed bugs and implemented new features based on client requirements
+
+EDUCATION
+Bachelor of Science in Computer Science
+San Francisco State University | San Francisco, CA | 2017
+
+CERTIFICATIONS & TRAINING
+AWS Certified Solutions Architect - Associate (2022)
+Docker Certified Associate (2021)
+Introduction to Kubernetes - Linux Academy (2020)
+
+PROJECTS & ACHIEVEMENTS
+• Real-time Analytics Platform: Built data processing pipeline handling 1M events/day using Kafka and Python
+• Open Source Contributions: Maintained popular Python library with 5K+ GitHub stars
+• Tech Blog: Published 20+ technical articles on backend development with 100K+ views
+
+ADDITIONAL INFORMATION
+• Languages: English (Native), Spanish (Conversational)
+• Available for: Full-time positions, Contract work

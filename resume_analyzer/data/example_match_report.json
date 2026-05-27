@@ -1,0 +1,97 @@
+{
+  "report_type": "candidate_match_report",
+  "generated_at": "2024-05-27T14:30:00",
+  "candidate": {
+    "name": "John Smith",
+    "email": "john.smith@email.com",
+    "phone": "(555) 123-4567",
+    "location": "San Francisco, CA",
+    "years_of_experience": 7.0,
+    "skills": [
+      "python",
+      "javascript",
+      "django",
+      "fastapi",
+      "postgresql",
+      "mongodb",
+      "aws",
+      "docker",
+      "kubernetes",
+      "git",
+      "jenkins",
+      "react"
+    ],
+    "education": [
+      {
+        "degree": "bachelor",
+        "institution": "San Francisco State University",
+        "year": "2017"
+      }
+    ],
+    "certifications": [
+      "AWS Certified Solutions Architect - Associate",
+      "Docker Certified Associate"
+    ]
+  },
+  "job": {
+    "title": "Senior Backend Engineer - Python/Django",
+    "required_skills": [
+      "python",
+      "django",
+      "postgresql",
+      "aws",
+      "docker",
+      "git",
+      "rest"
+    ],
+    "minimum_experience": 6.0,
+    "required_education": "bachelor"
+  },
+  "match_analysis": {
+    "overall_score": 88.5,
+    "skill_score": 92.0,
+    "experience_score": 85.0,
+    "education_score": 100.0,
+    "recommendation": "🟢 Strong Hire",
+    "missing_skills": [],
+    "matched_skills": {
+      "languages": [
+        "python",
+        "javascript"
+      ],
+      "frameworks": [
+        "django",
+        "fastapi",
+        "react"
+      ],
+      "databases": [
+        "postgresql",
+        "mongodb"
+      ],
+      "cloud": [
+        "aws",
+        "docker",
+        "kubernetes"
+      ],
+      "tools": [
+        "git",
+        "jenkins"
+      ]
+    },
+    "skill_match_percentage": 100.0,
+    "details": {
+      "candidate_skills": 12,
+      "required_skills": 7,
+      "candidate_experience": 7.0,
+      "required_experience": 6.0,
+      "education_level": [
+        {
+          "degree": "bachelor",
+          "institution": "San Francisco State University",
+          "year": "2017"
+        }
+      ],
+      "required_education": "bachelor"
+    }
+  }
+}

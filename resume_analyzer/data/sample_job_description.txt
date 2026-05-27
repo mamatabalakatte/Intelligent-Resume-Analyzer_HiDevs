@@ -1,0 +1,63 @@
+Senior Backend Engineer - Python/Django
+
+Company: TechVentures Inc
+Location: San Francisco, CA
+Employment Type: Full-time
+Salary Range: $120,000 - $160,000
+
+ABOUT THE ROLE
+We are seeking an experienced Senior Backend Engineer to join our growing engineering team. You will be responsible for designing, developing, and maintaining scalable backend systems that power our platform. This is a high-impact role where you'll influence architecture decisions and mentor junior engineers.
+
+KEY RESPONSIBILITIES
+• Design and implement RESTful APIs and microservices using Python/Django
+• Develop and maintain backend systems serving millions of requests daily
+• Collaborate with product and frontend teams to define technical specifications
+• Mentor junior developers and conduct code reviews
+• Optimize database performance and implement caching strategies
+• Implement CI/CD pipelines and deployment automation
+• Participate in architectural discussions and technical planning
+• Troubleshoot and resolve production issues
+• Write comprehensive documentation and technical specifications
+
+REQUIRED SKILLS & EXPERIENCE
+• 6+ years of professional backend development experience
+• Strong proficiency in Python and Django framework
+• Experience with PostgreSQL or similar relational databases
+• Solid understanding of REST API design principles
+• Knowledge of Docker and containerization
+• Familiarity with cloud platforms (AWS preferred)
+• Understanding of microservices architecture
+• Experience with Git and version control
+• Strong problem-solving and analytical skills
+• Excellent communication and teamwork abilities
+• Bachelor's degree in Computer Science or related field
+
+NICE-TO-HAVE SKILLS
+• Experience with Kubernetes for orchestration
+• Knowledge of GraphQL or gRPC
+• Experience with message queues (RabbitMQ, Kafka)
+• AWS certification
+• Experience with machine learning integrations
+• Open source contributions
+• Knowledge of Redis and caching strategies
+• Experience with TensorFlow or scikit-learn
+
+WHAT WE OFFER
+• Competitive salary and equity package
+• Comprehensive health insurance (medical, dental, vision)
+• 401(k) matching program
+• Professional development budget
+• Flexible work schedule and remote work options
+• Free snacks and beverages
+• Collaborative and innovative work environment
+• Career growth opportunities
+• Work with cutting-edge technology
+
+ABOUT US
+TechVentures Inc is a Series B startup focused on providing AI-powered analytics solutions to enterprises. We have a diverse team of talented engineers, designers, and product managers working on challenging technical problems.
+
+TO APPLY
+Please submit your resume, GitHub profile, and a brief cover letter explaining why you're interested in this position.
+
+EQUAL OPPORTUNITY
+TechVentures Inc is an equal opportunity employer committed to building a diverse and inclusive workforce.
