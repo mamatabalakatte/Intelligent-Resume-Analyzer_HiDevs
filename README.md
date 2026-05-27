@@ -1,5 +1,7 @@
 # Intelligent Resume Analyzer 📄
 
+YouTube link: https://www.youtube.com/watch?v=iNMl8bGcyeM
+
 **An AI-Powered Applicant Tracking System (ATS) for Intelligent Resume Analysis and Candidate Ranking**
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/downloads/)
